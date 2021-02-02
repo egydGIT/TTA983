@@ -5,4 +5,5 @@ Attila's repository
 
 - scratch
 - logo
-- coloBot
+- makeblock: mBot
+- coloBot gold edition
