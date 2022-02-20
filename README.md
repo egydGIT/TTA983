@@ -3,11 +3,23 @@
 
 (12 years old)
 
-- #### scratch
-- #### logo
+
 - #### makeblock -> mBot
+
+    - [download program](https://mblock.makeblock.com/en-us/download/)
+    - [Udemy course](https://www.udemy.com/course/arduino-robotics-with-the-mbot/learn/lecture/6532024?start=0#overview)
+
+- #### scratch
+
+    - [download program](https://scratch.mit.edu/download)
+    - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+
+- #### logo
+
+    - [download program](https://imagine-logo.software.informer.com/2.0/)
+
 - #### coloBot gold edition
 
     - [download program](https://colobot.info/colobot-gold-edition/)
     - [solutions on GitHub](https://github.com/colobot)
-    - [udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9054518#overview)
+    - [Udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9017390#overview)
