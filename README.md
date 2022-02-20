@@ -17,6 +17,7 @@
 - #### logo
 
     - [download program](https://imagine-logo.software.informer.com/2.0/)
+    - [YouTube course](https://www.youtube.com/watch?v=PRUmUUdjlvI&list=PLbhBpzlF0uC25JHuP-FNub74XzrypzHTa)
 
 - #### coloBot gold edition
 
