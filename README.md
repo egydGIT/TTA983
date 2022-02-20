@@ -8,5 +8,6 @@
 - #### makeblock -> mBot
 - #### coloBot gold edition
 
-    - [download](https://colobot.info/colobot-gold-edition/)
-    - [solutions](https://github.com/colobot)
+    - [download program](https://colobot.info/colobot-gold-edition/)
+    - [solutions on GitHub](https://github.com/colobot)
+    - [udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9054518#overview)
