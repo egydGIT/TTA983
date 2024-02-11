@@ -1,0 +1,6 @@
+public class HelloWorld {
+    public static void main (String args[]) {
+        System.out.println("Hello I'm your PC with IntelliJ IDEA tool! :)");
+        System.out.println("This is just a test...");
+    }
+}
