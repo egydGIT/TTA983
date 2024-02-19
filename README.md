@@ -11,6 +11,7 @@
 
 - #### scratch
 
+    - [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java) - gyakorló feladataim
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
