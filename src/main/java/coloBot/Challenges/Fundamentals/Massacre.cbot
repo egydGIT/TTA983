@@ -1,0 +1,13 @@
+extern void object::MassacreLevel1()
+{
+	
+	repeat(4)
+	{
+		move(10);
+		turn(90);
+		fire(1);
+		wait(1);
+		turn(-180);
+	}
+	
+}

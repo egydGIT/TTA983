@@ -1,0 +1,16 @@
+extern void object::PowerCell2()
+{
+	object item;
+	
+	while(true)
+	{
+		item = radar(PowerCell);
+		goto(item.position);
+		grab();
+		
+		item = radar(WingedShooter);
+		goto(item.position);
+		drop();
+	}
+	
+}

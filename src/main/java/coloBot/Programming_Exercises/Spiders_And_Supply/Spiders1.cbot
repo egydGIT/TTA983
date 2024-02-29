@@ -1,0 +1,8 @@
+extern void object::Spiders1()
+{
+	fire(1);
+	turn(90);
+	fire(1);
+	turn(-180);
+	fire(1);
+}

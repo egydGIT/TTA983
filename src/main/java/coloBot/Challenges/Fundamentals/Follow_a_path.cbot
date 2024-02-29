@@ -1,0 +1,11 @@
+extern void object::FollowAPath()
+{
+	move(20);
+	turn(90);
+	move(20);
+	move(20);
+	turn(90);
+	move(20);
+	turn(90);
+	move(20);
+}

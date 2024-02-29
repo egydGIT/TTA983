@@ -1,0 +1,14 @@
+extern void object::BarrageFire()
+{
+	object item;
+	
+	turn(90);
+	while(true)
+	{
+		motor(1,-1);
+		fire(2);
+		motor(-1,1);
+		fire(2);
+	}
+	
+}

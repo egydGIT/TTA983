@@ -1,0 +1,10 @@
+extern void object::PowerCell1()
+{
+	grab();
+	turn(180);
+	drop();
+	turn(90);
+	grab();
+	turn(90);
+	drop();
+}

@@ -1,0 +1,9 @@
+extern void object::Titanium1()
+{
+	move(20);
+	grab();
+	turn(180);
+	move(30);
+	drop();
+	move(-10);
+}

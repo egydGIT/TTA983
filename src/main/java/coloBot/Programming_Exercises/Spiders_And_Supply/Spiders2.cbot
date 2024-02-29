@@ -1,0 +1,12 @@
+extern void object::Spiders2()
+{
+	object item;
+	
+	while(true)
+	{
+		item = radar(AlienSpider);
+		turn(direction(item.position));
+		fire(1);
+	}
+	
+}
