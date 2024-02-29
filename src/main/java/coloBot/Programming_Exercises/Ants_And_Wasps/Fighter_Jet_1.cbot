@@ -1,3 +1,5 @@
+// Objective: Program a winged shooter to hunt all ants in the region.
+
 extern void object::FighterJet1()
 {
 	object item;

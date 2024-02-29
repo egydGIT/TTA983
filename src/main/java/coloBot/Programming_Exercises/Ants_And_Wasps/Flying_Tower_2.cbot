@@ -1,3 +1,5 @@
+// Objective: Adapt the program Tower1 in order to avoid wasting energy when shooting at ants that are out of range.
+
 extern void object::FlyingTower2()
 {
 	object    item;

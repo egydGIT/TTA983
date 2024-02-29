@@ -1,3 +1,5 @@
+// Objective: Take a chunk of titanium ore the exact location of which we do not know. Use the bot's radar to find it. Bring the titanium ore to the converter.
+
 extern void object::Titanium2()
 {
 	object item;

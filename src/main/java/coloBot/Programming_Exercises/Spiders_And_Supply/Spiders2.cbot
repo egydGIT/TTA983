@@ -1,3 +1,5 @@
+// Objective: Kill several spiders whose exact location we do not know. Use the bot's radar to find them.
+
 extern void object::Spiders2()
 {
 	object item;

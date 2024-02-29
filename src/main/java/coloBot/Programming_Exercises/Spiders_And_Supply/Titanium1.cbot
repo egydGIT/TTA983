@@ -1,3 +1,5 @@
+// Objective: Write a program that takes a chunk of titanium ore and drops in on the converter in order to produce a titanium cube.
+
 extern void object::Titanium1()
 {
 	move(20);

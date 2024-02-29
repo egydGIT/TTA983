@@ -1,3 +1,5 @@
+// Objective: Move towards the spiders that are out of shooting range.
+
 extern void object::Spider3()
 {
 	object item;

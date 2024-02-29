@@ -1,3 +1,5 @@
+// Objective: Program the grabber bot to change the power cell of the winged shooter. The winged shooter can then shoot the spiders.
+
 extern void object::PowerCell1()
 {
 	grab();

@@ -1,3 +1,5 @@
+// Objective: As a defense against ants attacking from all sides, adapt the program Spider2 in order to fly at a given altitude.
+
 extern void object::FlyingTower1()
 {
 	object item;

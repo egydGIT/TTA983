@@ -1,3 +1,5 @@
+// Objective: Power the winged shooters with power cells, so that they can kill the ants in the ant nest located in a hole north of your position.
+
 extern void object::PowerCell2()
 {
 	object item;

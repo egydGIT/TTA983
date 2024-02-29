@@ -1,3 +1,5 @@
+// Objective: Adapt the flying height of the winged shooter to the terrain.
+
 extern void object::FighterJet2()
 {
 	object    item;
@@ -12,7 +14,6 @@ extern void object::FighterJet2()
 			turn(direction(item.position));
 			motor(1,1);
 			jet(0);
-			wait(0.2);
 			
 			if(position.z-topo(position) < 6)
 			{

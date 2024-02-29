@@ -1,3 +1,5 @@
+// Exercise: Destroy all four targets with a program using a for loop. You must move 10m to get from one target to another.
+
 extern void object::MassacreLevel1()
 {
 	

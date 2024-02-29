@@ -1,3 +1,6 @@
+// Exercise: Program the robot in such a way that it arrives on the finishing pad, after having passed by the three blue crosses. 
+//           The platforms and the crosses are all distant of 20m from each other.
+
 extern void object::FollowAPath()
 {
 	move(20);
