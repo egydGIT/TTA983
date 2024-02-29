@@ -13,14 +13,14 @@
 2. ### ColoBot - Gold Edition
 
     - [download program](https://colobot.info/colobot-gold-edition/)
-    - [TerranovaTeam's GitHub page](https://github.com/colobot)
+    - [TerranovaTeam on GitHub](https://github.com/colobot)
     - [Udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9017390#overview)
     - #### [my ColoBot files]() -» gyakorló feladataim (.txt)
 
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my ColoBot files]() -» gyakorló feladataim
+    - #### [my ColoBot files]() -» gyakorló feladataim (.cbot)
   
 4. ### Makeblock -> mBot
 
