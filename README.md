@@ -8,19 +8,19 @@
 
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
-    - #### [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java) -» gyakorló feladataim (.sb3)
+    - #### [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» gyakorló feladataim (.sb3)
 
 2. ### ColoBot - Gold Edition
 
     - [download program](https://colobot.info/colobot-gold-edition/)
     - [TerranovaTeam on GitHub](https://github.com/colobot)
     - [Udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9017390#overview)
-    - #### [my ColoBot files]() -» gyakorló feladataim (.txt)
+    - #### [my ColoBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/coloBot) -» gyakorló feladataim (.txt)
 
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my ColoBot files]() -» gyakorló feladataim (.cbot)
+    - #### [my Micro:bit files]() -» gyakorló feladataim (.cbot)
   
 4. ### Makeblock -> mBot
 
