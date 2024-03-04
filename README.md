@@ -1,5 +1,6 @@
 # TTA983
-## Attila's repository
+## Szabó Attila's repository
+OM: 72789114000
 
 (14 years old)
 
@@ -15,12 +16,12 @@
     - [download program](https://colobot.info/colobot-gold-edition/)
     - [TerranovaTeam on GitHub](https://github.com/colobot)
     - [Udemy course](https://www.udemy.com/course/draft/1499924/learn/lecture/9017390#overview)
-    - #### [my ColoBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/coloBot) -» gyakorló feladataim (.txt)
+    - #### [my ColoBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/coloBot) -» gyakorló feladataim (.cbot)
 
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my Micro:bit files]() -» gyakorló feladataim (.cbot)
+    - #### [my Micro:bit files]() -» gyakorló feladataim (.??)
   
 4. ### Makeblock -> mBot
 
