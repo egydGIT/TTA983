@@ -21,7 +21,7 @@ OM:  72789114000
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my Micro:bit files]() -» gyakorló feladataim (.hex)
+    - #### [my Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» gyakorló feladataim (.hex)
   
 4. ### Makeblock -> mBot
 
