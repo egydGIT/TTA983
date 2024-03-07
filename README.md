@@ -21,12 +21,13 @@ OM:  72789114000
 3. ### Micro:bit
 
     - [online editor](https://makecode.microbit.org)
-    - #### [my Micro:bit files]() -» gyakorló feladataim (.??)
+    - #### [my Micro:bit files]() -» gyakorló feladataim (.hex)
   
 4. ### Makeblock -> mBot
 
     - [download program](https://mblock.makeblock.com/en-us/download/)
     - [Udemy course](https://www.udemy.com/course/arduino-robotics-with-the-mbot/learn/lecture/6532024?start=0#overview)
+    - #### [my mBot files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/mBot) -» gyakorló feladataim (.mblock)
 
 5. ### Logo
 
