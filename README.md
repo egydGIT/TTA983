@@ -10,7 +10,8 @@ OM:  72789114000
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
     - #### [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» gyakorló feladataim (.sb3)
-    - #### [:video_game: my scratch game](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2002.%20-%20Flappy%20Bird%20Style%20-%20v2.0.sb3) - JetPack guy
+    - :video_game: my scratch games:
+        - [JetPack guy](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2002.%20-%20Flappy%20Bird%20Style%20-%20v2.0.sb3)
 
 2. ### ColoBot - Gold Edition
 
@@ -23,7 +24,8 @@ OM:  72789114000
 
     - [online editor](https://makecode.microbit.org)
     - #### [my Micro:bit files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/microBit) -» gyakorló feladataim (.hex)
-    - #### [:video_game: my Micro:bit game](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/microBit/(microbit%20V2)%20Shooting%20game%20-%20by%20TTA983.hex) - Shooting game
+    - :video_game: my Micro:bit games:
+        - [Shooting game](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/microBit/(microbit%20V2)%20Shooting%20game%20-%20by%20TTA983.hex)
   
 4. ### Makeblock -> mBot
 
