@@ -14,7 +14,7 @@ OM:  72789114000
         - [2nd place](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch/competition_Vodafone2022_2nd_place)
     - :video_game: my scratch games:
         - [JetPack guy](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2002.%20-%20Flappy%20Bird%20Style%20-%20v2.0.sb3)
-        - [Catch the ball](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2003.%20-%20%20Chatch%20the%20ball.sb3)
+        - [Catch the ball](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2003.%20-%20%20Catch%20the%20ball.sb3)
 
 2. ### ColoBot - Gold Edition
 
