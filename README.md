@@ -10,8 +10,11 @@ OM:  72789114000
     - [download program](https://scratch.mit.edu/download)
     - [online editor](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
     - #### [my scratch files](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch) -» gyakorló feladataim (.sb3)
+    - :trophy: Vodafone scratch verseny 2022:
+        - [2nd place](https://github.com/egydGIT/TTA983/tree/origin/src/main/java/scratch/competition_Vodafone2022_2nd_place)
     - :video_game: my scratch games:
         - [JetPack guy](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2002.%20-%20Flappy%20Bird%20Style%20-%20v2.0.sb3)
+        - [Chatch the ball](https://github.com/egydGIT/TTA983/blob/origin/src/main/java/scratch/games/Scratch%20Game%2003.%20-%20%20Chatch%20the%20ball.sb3)
 
 2. ### ColoBot - Gold Edition
 
